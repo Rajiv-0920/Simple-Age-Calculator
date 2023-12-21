@@ -9,5 +9,5 @@ Live Url: https://rajiv-0920.github.io/Simple-Age-Calculator/
 1. getElementById()
 2. querySelector()
 3. new Date()
-4. adEventListener()
+4. addEventListener()
 5. function
